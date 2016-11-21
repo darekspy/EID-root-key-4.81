@@ -1,2 +1,2 @@
-# eid_root_key_481
-root_key_dumper od flat_z przepisany pod 4.81
+# eid_root_key
+EID rootkey dumper od flat_z pod 4.81
